@@ -1,38 +1,12 @@
 Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.<br>
 
 ![ChronosPointerModCover](About/Preview.png)
-<h1>Chronos Pointer - Schedule Menu Enhancement</h1>
+<h1>Do Once - Noncommittal Work</h1>
+<b>Do Once</b> is a Quality of Life mod to allow pawns to perform single jobs of work types they are not assigned. It mod adds two new context items when you right click things, work stations, and other items pawns use for work: 
+  - A "Do once" option which forces the pawn to perform the work associated with whatever you right clicked exactly once. (e.g. Haul the stack of logs you clicked or cook one meal at the stove you clicked.)
+  - An "Open work tab" option that opens the work tab and highlights the work type pawn so it's super easy to assign priority for that work type.
 
-Enhances the schedule panel with dynamic time indicators for improved colony management and time tracking.
+  The options only appear if the pawn is unassigned to do the work type the item is used for and if they are capable of the work type.
 
-  Features:<br>
-    - Day/Night Tracker: A bar above the hour numbers in the schedule window, visually representing day and night cycles.<br>
-    - Dynamic Arrow: Moves in real-time, precisely indicating the current hour and minute.<br>
-    - Day/Night Indicator: A small line at the arrow’s tip, spanning the width of the day/night tracker, tracing the passage of time.<br>
-    - Full-Height Time Indicator: A vertical line spanning all pawns' schedules, moving in sync with the arrow to show the current time for all colonists at once.<br>
-    - Customizable Colors: Adjust colors for the arrow, highlight, cursors, and bars to suit your preference.<br>
-    - Incident Interactions: The Day/Night Tracker updates its color based on the map state for current events such as Solar Flare/Eclipse, and Auroras.<br>
-<br>
-  This mod provides an intuitive and visually appealing way to track time in RimWorld, making it easier to manage colonist schedules and activities throughout the day and night cycle.
-
-  All features can be toggled and customized in the mod settings, allowing you to tailor the experience to your liking.
-  
-This mod requires [Harmony](https://steamcommunity.com/workshop/filedetails/?id=2009463077). It is safe to add to existing saves.
-
-<h2>DLC/Mods Compatibility</h2>
-
-<h3>DLC</h3>
-
-[Royalty](https://rimworldgame.com/royalty/) - Supported<br>
-[Ideology](https://rimworldgame.com/ideology/) - Supported<br>
-[Biotech](https://rimworldgame.com/biotech/) - Supported<br>
-[Anomaly](https://rimworldgame.com/anomaly/) - Supported<br>
-
-<h3>Mods</h3>
-
-[Reading Schedule](https://steamcommunity.com/sharedfiles/filedetails/?id=3367570241&searchtext=Schedule+cursor) - Native<br>
-[Zone To Schedule](https://steamcommunity.com/sharedfiles/filedetails/?id=2436086611&searchtext=Zone+to+schedule) - Native<br>
-[1trickPwnyta's Defaults](https://steamcommunity.com/sharedfiles/filedetails/?id=3285178686) - Native<br>
-[Schedule Clock](https://steamcommunity.com/sharedfiles/filedetails/?id=3012379410) - Native. Line overlaps, can turn off Chronos Pointer's line to fix.<br>
-[Grouped Pawns List](https://steamcommunity.com/sharedfiles/filedetails/?id=2340773428) - Native<br>
-[Custom Schedules](https://steamcommunity.com/sharedfiles/filedetails/?id=2717694491) - UI Overlap; buttons still work.<br>
+  These features are borrowed from Better Work Tab. I thought it would make a quite fine QOL mod on its own for people who don't want to commit to the full BWT transformation. 
+  <i>While this mod is fully compatible with Better Work Tab, doing so is redundant since this mod is borrowing BWT's functionality.</i>
