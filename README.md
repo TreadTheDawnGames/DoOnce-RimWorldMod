@@ -1,5 +1,3 @@
-<sub>Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.<br></sub>
-
 ![DoOnceModCover](About/Preview.png)
 <h1>Do Once - Noncommittal Work</h1>
 <b>Do Once</b> is a Quality of Life mod to allow pawns to perform single jobs of work types they are not assigned. It mod adds two new context items when you right click things, work stations, and other items pawns use for work: 
