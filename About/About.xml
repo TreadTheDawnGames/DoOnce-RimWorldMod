@@ -18,7 +18,7 @@
   <i>While this mod is fully compatible with Better Work Tab, doing so is redundant since this mod is borrowing BWT's functionality.</i>
 
 ]]>  </description>
-  <url></url>
+  <url>https://github.com/TreadTheDawnGames/DoOnce-RimWorldMod/</url>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
