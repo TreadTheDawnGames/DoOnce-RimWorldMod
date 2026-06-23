@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348992BB-C3B8-4213-B399-C3E8D72E1A16}|DoOnce\\DoOnce.csproj|d:\\programs\\steam\\steamapps\\common\\rimworld\\mods\\doonce\\source\\doonce\\doonce\\highlightworktabpatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348992BB-C3B8-4213-B399-C3E8D72E1A16}|DoOnce\\DoOnce.csproj|solutionrelative:doonce\\highlightworktabpatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348992BB-C3B8-4213-B399-C3E8D72E1A16}|DoOnce\\DoOnce.csproj|d:\\programs\\steam\\steamapps\\common\\rimworld\\mods\\doonce\\source\\doonce\\doonce\\floatmenupatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348992BB-C3B8-4213-B399-C3E8D72E1A16}|DoOnce\\DoOnce.csproj|solutionrelative:doonce\\floatmenupatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DoOnce||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348992BB-C3B8-4213-B399-C3E8D72E1A16}|DoOnce\\DoOnce.csproj|D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\doonce\\dooncemod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348992BB-C3B8-4213-B399-C3E8D72E1A16}|DoOnce\\DoOnce.csproj|solutionrelative:doonce\\dooncemod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HighlightWorkTabPatches.cs",
+              "DocumentMoniker": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\HighlightWorkTabPatches.cs",
+              "RelativeDocumentMoniker": "DoOnce\\HighlightWorkTabPatches.cs",
+              "ToolTip": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\HighlightWorkTabPatches.cs",
+              "RelativeToolTip": "DoOnce\\HighlightWorkTabPatches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T01:46:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FloatMenuPatch.cs",
+              "DocumentMoniker": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\FloatMenuPatch.cs",
+              "RelativeDocumentMoniker": "DoOnce\\FloatMenuPatch.cs",
+              "ToolTip": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\FloatMenuPatch.cs",
+              "RelativeToolTip": "DoOnce\\FloatMenuPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T00:22:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoOnce",
+              "DocumentMoniker": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
+              "RelativeDocumentMoniker": "DoOnce\\DoOnce.csproj",
+              "ToolTip": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
+              "RelativeToolTip": "DoOnce\\DoOnce.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T00:40:05.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoOnceMod.cs",
+              "DocumentMoniker": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\DoOnceMod.cs",
+              "RelativeDocumentMoniker": "DoOnce\\DoOnceMod.cs",
+              "ToolTip": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\DoOnceMod.cs",
+              "RelativeToolTip": "DoOnce\\DoOnceMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T00:22:24.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
