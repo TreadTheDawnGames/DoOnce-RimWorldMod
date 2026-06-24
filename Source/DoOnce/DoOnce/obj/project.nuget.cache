@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v5jd6/JdvFQ=",
+  "dgSpecHash": "/PSBkkzDlDA=",
   "success": true,
-  "projectFilePath": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
+  "projectFilePath": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce-RimWorldMod\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caspian\\.nuget\\packages\\krafs.publicizer\\2.3.0\\krafs.publicizer.2.3.0.nupkg.sha512",
     "C:\\Users\\Caspian\\.nuget\\packages\\krafs.rimworld.ref\\1.6.4850\\krafs.rimworld.ref.1.6.4850.nupkg.sha512",

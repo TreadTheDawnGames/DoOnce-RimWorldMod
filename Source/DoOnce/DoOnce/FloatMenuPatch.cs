@@ -64,7 +64,7 @@ namespace DoOnce
                 Patch_FloatMenuOptionProvider_WorkGivers_GetWorkGiverOptionFor.AdditionalOptions.Add(value);
 
                 var text = "BWTNotAssignedDoAnyway".Translate(workType.labelShort.CapitalizeFirst());
-                Patch_FloatMenuOptionProvider_WorkGivers_GetWorkGiverOptionFor.AdditionalOptions.Add(new FloatMenuOption("BWTNotAssignedAssignWork".Translate(), () =>
+                Patch_FloatMenuOptionProvider_WorkGivers_GetWorkGiverOptionFor.AdditionalOptions.Add(new FloatMenuOption("BWTNotAssignedAssignWork".Translate(workType.gerundLabel), () =>
                 {
                     PawnTable_HighlightRowAndColumn.SetWorktypeToHighlight(workType); ;
                     Find.MainTabsRoot.SetCurrentTab(MainButtonDefOf.Work);

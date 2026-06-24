@@ -9,3 +9,10 @@ D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce\Source\DoOnce\DoOnce\obj
 D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce\Source\DoOnce\DoOnce\obj\Debug\DoOnce.pdb
 D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce\1.6\Assemblies\DoOnce.dll
 D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce\1.6\Assemblies\DoOnce.pdb
+D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce-RimWorldMod\1.6\Assemblies\DoOnce.dll
+D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce-RimWorldMod\1.6\Assemblies\DoOnce.pdb
+D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce-RimWorldMod\Source\DoOnce\DoOnce\obj\Debug\DoOnce.csproj.AssemblyReference.cache
+D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce-RimWorldMod\Source\DoOnce\DoOnce\obj\Debug\DoOnce.csproj.CoreCompileInputs.cache
+D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce-RimWorldMod\Source\DoOnce\DoOnce\obj\Debug\DoOnce.csproj.Up2Date
+D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce-RimWorldMod\Source\DoOnce\DoOnce\obj\Debug\DoOnce.dll
+D:\Programs\Steam\steamapps\common\RimWorld\Mods\DoOnce-RimWorldMod\Source\DoOnce\DoOnce\obj\Debug\DoOnce.pdb

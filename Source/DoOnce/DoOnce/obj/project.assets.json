@@ -907,11 +907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
+      "projectUniqueName": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce-RimWorldMod\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
       "projectName": "DoOnce",
-      "projectPath": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
+      "projectPath": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce-RimWorldMod\\Source\\DoOnce\\DoOnce\\DoOnce.csproj",
       "packagesPath": "C:\\Users\\Caspian\\.nuget\\packages\\",
-      "outputPath": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce\\Source\\DoOnce\\DoOnce\\obj\\",
+      "outputPath": "D:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\DoOnce-RimWorldMod\\Source\\DoOnce\\DoOnce\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
